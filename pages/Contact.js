@@ -7,7 +7,7 @@ export const Contact = () => {
     main.innerHTML = `
     <div class="contactHeader">
         <h2>Let's find a solution</h2>
-        <img src="./public/icons/Florencia - Antonio.jpg" alt="profile-picture">
+        <img src="/icons/Florencia - Antonio.jpg" alt="profile-picture">
     </div>
     <section class="contact">
         <article class="contactFormClass">

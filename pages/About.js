@@ -24,7 +24,7 @@ export const About = () => {
 
             <p>Oh, and I'm a devoted Atleti fan—which means I know what it's like to fall and get back up again. No matter what, I never stop believing.</p>
         </div>
-        <img src="./public/icons/Florencia - Antonio.jpg" alt="Drawn face">
+        <img src="/icons/Florencia - Antonio.jpg" alt="Drawn face">
     </article>
     </section>
     `

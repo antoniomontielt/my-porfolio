@@ -20,7 +20,7 @@ export const changeText = () => {
 
 export const Navbar = () => `
 <nav>
-<img src="./public/icons/profile.webp">
+<img src="/icons/profile.webp">
 <ul id="navMenu">
     <li>
         <a href="#" id="homelink">Home</a>
